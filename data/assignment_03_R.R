@@ -110,3 +110,15 @@ ggplot(avg_rate_by_rating,
     x = "Rating",
     y = "Average Rental Rate"
   )
+
+
+
+
+
+
+
+
+
+
+
+
